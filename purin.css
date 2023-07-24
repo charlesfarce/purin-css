@@ -215,7 +215,6 @@ th {
   color: #12080d;}
 del {
   text-decoration: line-through;}
-@media (prefers-color-scheme: dark) {
   body {
     color: #aaaaaa;
     background: #1f1b22}
@@ -236,5 +235,5 @@ pre, blockquote {
     background: #262626;}
 blockquote {
     border-color: #7d7d7d;}
-th, td {
-    border-color: #666666;}
+th,td{border-color: #666666;}
+@media (prefers-color-scheme: dark)
