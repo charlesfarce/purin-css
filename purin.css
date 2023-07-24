@@ -97,27 +97,27 @@ h1 {
   font-weight: 100;
   margin-top: 0.3em;
   margin-bottom: 0.1em;
-  color: #e2e2e2;
+  color: #e2e2;
   width: 100%;}
 h2 {
   font-size: 1.4em;
   font-weight: 300;
   margin-bottom: 0.4em;
-  color: #e2e2e2;
+  color: #e2e2;
   border-bottom: 1px solid #ac85ae;
   width: 64%;}
 h3 {
   font-size: 1.4em;
   font-weight: 300;
   margin-bottom: 0.3em;
-  color: #e2e2e2;
+  color: #e2e2;
   border-bottom: 2px dotted #ac85ae;
   width: 100%;}
 h4 {
   font-size: 1.2em;
   font-weight: 300;
   margin-bottom: 0.1em;
-  color: #e2e2e2;
+  color: #e2e2;
   width: 55%;}
 strong {
   font-style: bold;}
@@ -234,6 +234,6 @@ pre kbd {
 pre, blockquote {
     background: #262626;}
 blockquote {
-    border-color: #7d7d7d;}
-th,td{border-color: #666666;}
+    border-color: #7d7d;}
+th,td{border-color: #666;}
 @media (prefers-color-scheme: dark)
