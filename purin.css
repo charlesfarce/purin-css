@@ -164,7 +164,7 @@ code {
   color: #ffffff;
   background-color: #575757;
   padding: 0em;}
-pre > code {
+pre < code {
   overflow-x: auto;
   padding: 0;
   background-color: transparent;
